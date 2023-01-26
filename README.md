@@ -23,3 +23,40 @@ This project leverages python 3.7 with the following packages:
 * [hvplot](https://hvplot.holoviz.org/) - High-level API for data exploration and visualization 
 * [Scikit](https://scikit-learn.org/stable/install.html) - Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning.
 
+
+## Installation Guide
+
+
+Before running the application first install the following dependencies.
+
+```python
+  pip install csv
+  pip install pandas
+  pip install matplotlib
+  pip install pathlib
+  pip install Numpy
+  pip install -U scikit-learn
+  pip install hvplot
+  
+```
+
+
+## Usage
+
+Use the following command to run the app
+
+```git to the directory and type
+ jupyter lab
+```
+
+## Baseline chart on investement returns through Stretgic investment
+
+
+![Finanl Planning](baseline.png)
+
+
+
+
+
+
+
