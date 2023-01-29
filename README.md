@@ -49,14 +49,14 @@ Use the following command to run the app
  jupyter lab
 ```
 
-## Baseline chart on investement returns through Stretgic investment
+## Baseline chart on investement returns through stretgic investment
 
 
 ![Finanl Planning](baseline.png)
 
 
 
+## Investement returns after fine tunning through machine learning algorithm 
 
 
-
-
+![Finanl Planning](ML_output_comparison.png)
