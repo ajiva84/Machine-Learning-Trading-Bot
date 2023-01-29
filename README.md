@@ -60,3 +60,15 @@ Use the following command to run the app
 
 
 ![Finanl Planning](ML_output_comparison.png)
+
+---
+
+## Contributors
+
+Azam Jiva
+
+---
+
+## License
+
+MIT
