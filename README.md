@@ -1,6 +1,6 @@
 # Machine Learning Trading Bot
 
-![Challenge](Challenge-image.png)
+![Challenge](challenge-image.png)
 
 
 -----------
